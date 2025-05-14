@@ -6,3 +6,4 @@ b=a
 a=c
 print("a=" + str(a))
 print("b=" +str(b) )
+print(f"a={a} and b={b}")
